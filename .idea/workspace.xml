@@ -8,11 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/DemoORM_OneToMany.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DemoORM_OneToMany.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/ArticuloManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/EstudianteManager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/modelo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vista/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vista/app_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/app_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/TestArticuloManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestEstudianteManager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,25 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in TestArticuloManager.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in TestEstudianteClaseCRUD.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CRUD (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.CRUD.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.declarative_base.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modelo (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.modelo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PROYECTOSDemoOneToMany/DemoORM_OneToMany&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in TestArticuloManager.py.executor": "Run",
+    "Python tests.Python tests in TestEstudianteClaseCRUD.py.executor": "Run",
+    "Python tests.Python tests in TestEstudianteManager.py.executor": "Run",
+    "Python.CRUD (1).executor": "Run",
+    "Python.CRUD.executor": "Run",
+    "Python.EstudianteManager.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.app_v2.executor": "Run",
+    "Python.declarative_base.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.modelo (1).executor": "Run",
+    "Python.modelo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/PROYECTOSDemoOneToMany/DemoORM_OneToMany",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Proyectos\DemoORM_OneToMany\src\modelo" />
@@ -81,8 +78,8 @@
       <recent name="D:\Python\Proyectos\DemoORM_OneToMany" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.declarative_base">
-    <configuration name="TestArticuloManager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="EstudianteManager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DemoORM_OneToMany" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/logica" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python\Proyectos\DemoORM_OneToMany\src\logica\TestArticuloManager.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/logica/EstudianteManager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,6 +115,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/vista/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DemoORM_OneToMany" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/vista" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/vista/app_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,57 +189,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="modelo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DemoORM_OneToMany" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python\Proyectos\DemoORM_OneToMany\src\modelo\modelo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="modelo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DemoORM_OneToMany" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python\Proyectos\DemoORM_OneToMany\src\modelo\modelo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in TestEstudianteManager.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="DemoORM_OneToMany" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -231,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.declarative_base" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.app_v2" />
         <item itemvalue="Python tests.Python tests in TestEstudianteManager.py" />
-        <item itemvalue="Python.modelo" />
-        <item itemvalue="Python.TestArticuloManager" />
+        <item itemvalue="Python.EstudianteManager" />
+        <item itemvalue="Python.declarative_base" />
       </list>
     </recent_temporary>
   </component>
