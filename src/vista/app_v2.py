@@ -1,5 +1,5 @@
 from src.modelo.declarative_base import Session, Base, engine
-from src.logica.ArticuloManager import ArticuloManager
+from src.logica.EstudianteManager import ArticuloManager
 
 Base.metadata.drop_all(engine)
 Base.metadata.create_all(engine)
